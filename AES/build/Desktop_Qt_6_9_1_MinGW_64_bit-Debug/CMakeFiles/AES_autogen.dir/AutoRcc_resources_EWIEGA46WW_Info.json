@@ -1,0 +1,30 @@
+{
+	"BUILD_DIR" : "D:/STUDY/Ky6/Mat_ma_hoc_co_so/QT/AES/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/AES_autogen",
+	"CMAKE_BINARY_DIR" : "D:/STUDY/Ky6/Mat_ma_hoc_co_so/QT/AES/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "D:/STUDY/Ky6/Mat_ma_hoc_co_so/QT/AES/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "D:/STUDY/Ky6/Mat_ma_hoc_co_so/QT/AES",
+	"CMAKE_SOURCE_DIR" : "D:/STUDY/Ky6/Mat_ma_hoc_co_so/QT/AES",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "D:/STUDY/Ky6/Mat_ma_hoc_co_so/QT/AES/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/AES_autogen/include",
+	"INPUTS" : 
+	[
+		"D:/STUDY/Ky6/Mat_ma_hoc_co_so/QT/AES/resources/styles/macos.qss",
+		"D:/STUDY/Ky6/Mat_ma_hoc_co_so/QT/AES/resources/icons/icon.ico",
+		"D:/STUDY/Ky6/Mat_ma_hoc_co_so/QT/AES/resources/icons/eye0.png",
+		"D:/STUDY/Ky6/Mat_ma_hoc_co_so/QT/AES/resources/icons/check-white.png",
+		"D:/STUDY/Ky6/Mat_ma_hoc_co_so/QT/AES/resources/icons/check.png",
+		"D:/STUDY/Ky6/Mat_ma_hoc_co_so/QT/AES/resources/icons/eye1.png"
+	],
+	"LOCK_FILE" : "D:/STUDY/Ky6/Mat_ma_hoc_co_so/QT/AES/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/AES_autogen.dir/AutoRcc_resources_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "resources" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_resources.cpp",
+	"RCC_EXECUTABLE" : "D:/Programfile123/QT/6.9.1/mingw_64/bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "D:/STUDY/Ky6/Mat_ma_hoc_co_so/QT/AES/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/AES_autogen.dir/AutoRcc_resources_EWIEGA46WW_Used.txt",
+	"SOURCE" : "D:/STUDY/Ky6/Mat_ma_hoc_co_so/QT/AES/resources.qrc",
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}

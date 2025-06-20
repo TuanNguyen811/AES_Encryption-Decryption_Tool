@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-52d0d6e353a564584ff0.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "AES",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "AES::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-AES-Debug-ab4b86dcfaa9e43df7ba.json",
+					"name" : "AES",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "AES_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-AES_autogen-Debug-090348d201a00790fc7a.json",
+					"name" : "AES_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "AES_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-AES_autogen_timestamp_deps-Debug-ecdb18ec80a9d0b946fc.json",
+					"name" : "AES_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/STUDY/Ky6/Mat_ma_hoc_co_so/QT/AES/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug",
+		"source" : "D:/STUDY/Ky6/Mat_ma_hoc_co_so/QT/AES"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

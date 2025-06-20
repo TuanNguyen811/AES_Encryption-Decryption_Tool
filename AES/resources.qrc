@@ -1,0 +1,10 @@
+<RCC>
+   <qresource prefix="/">
+        <file>resources/styles/macos.qss</file>
+        <file>resources/icons/icon.ico</file>
+  	<file>resources/icons/check-white.png</file>
+        <file>resources/icons/check.png</file>
+        <file>resources/icons/eye0.png</file>
+        <file>resources/icons/eye1.png</file>
+    </qresource>
+</RCC>

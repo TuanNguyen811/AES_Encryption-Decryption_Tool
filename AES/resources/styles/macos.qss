@@ -1,0 +1,64 @@
+
+
+QLineEdit {
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    padding: 6px 8px;
+    background-color: white;
+    font-size: 14px;
+    color: black;
+}
+
+QLineEdit::placeholder {
+    color: #aaa;
+    font-style: italic;
+}
+
+QLineEdit:focus {
+    border: 2px solid #007aff;
+}
+
+
+QGroupBox {
+    font-size: 14px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    margin-top: 10px;
+}
+
+QGroupBox::title {
+    subcontrol-origin: margin;
+    subcontrol-position: top left;
+    padding: 0 3px;
+    color: #000;  /* chữ rõ nét hơn */
+    font-weight: normal;
+}
+
+QTabWidget::pane {
+    border: 1px solid #ccc;
+    border-radius: 6px;
+}
+
+QTabBar::tab {
+    background: #f0f0f0;
+    border: 1px solid #ccc;
+    border-bottom: none;
+    padding: 6px 12px;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+    font-size: 14px;
+}
+
+QTabBar::tab:selected {
+    background: white;
+    border-bottom: 1px solid white;
+}
+
+QToolButton {
+    background: transparent;
+    border: none;
+}
+
+* {
+    font-family: "Helvetica Neue", "Segoe UI", sans-serif;
+}
