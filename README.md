@@ -66,6 +66,4 @@ resources/
 MIT License
 
 ---
-
-**Tác giả:** TuanNguyen5613  
 **Dự án dành cho cá nhân, học tập và ứng dụng thực tế.**
