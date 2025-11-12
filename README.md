@@ -1,5 +1,6 @@
 # AES File Encryption Tool
-https://github.com/TuanNguyen811/AES_Encryption-Decryption_Tool/blob/main/%E1%BA%A2nh%20ch%E1%BB%A5p%20m%C3%A0n%20h%C3%ACnh%202025-06-20%20091645.png
+![Upload Page](AES_Encryption-Decryption_Tool//%E1%BA%A2nh%20ch%E1%BB%A5p%20m%C3%A0n%20h%C3%ACnh%202025-06-20%20091645.png)
+
 ## Giới thiệu
 
 **AES File Encryption Tool** là phần mềm mã hóa và giải mã file/folder sử dụng thuật toán AES với nhiều chế độ (CBC, ECB, CFB, OFB), giúp bảo mật dữ liệu cá nhân hoặc công việc của bạn một cách mạnh mẽ và dễ dàng.
