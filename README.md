@@ -1,5 +1,5 @@
 # AES File Encryption Tool
-![tool](AES_Encryption-Decryption_Tool/tool.png)
+![tool](tool.png)
 
 ## Giới thiệu
 
