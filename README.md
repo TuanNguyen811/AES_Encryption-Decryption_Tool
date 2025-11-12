@@ -1,5 +1,5 @@
 # AES File Encryption Tool
-![Upload Page](AES_Encryption-Decryption_Tool/tool.png)
+![tool](AES_Encryption-Decryption_Tool/tool.png)
 
 ## Giới thiệu
 
