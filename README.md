@@ -1,5 +1,5 @@
 # AES File Encryption Tool
-![Upload Page](AES_Encryption-Decryption_Tool/Ảnh chụp màn hình 2025-06-20 091645.png)
+![Upload Page](AES_Encryption-Decryption_Tool/tool.png)
 
 ## Giới thiệu
 
